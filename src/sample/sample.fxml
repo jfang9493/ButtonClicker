@@ -15,12 +15,4 @@
          <Font size="30.0" />
       </font>
    </Label>
-   <columnConstraints>
-      <ColumnConstraints />
-   </columnConstraints>
-   <rowConstraints>
-      <RowConstraints />
-      <RowConstraints />
-      <RowConstraints />
-   </rowConstraints>
 </GridPane>
