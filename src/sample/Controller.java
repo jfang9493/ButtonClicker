@@ -10,6 +10,7 @@ public class Controller {
 
     public void buttonClicked(ActionEvent actionEvent)
     {
+
         if(!gameStart)
         {
             gameStart = true;
